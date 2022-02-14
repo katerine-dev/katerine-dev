@@ -1,6 +1,6 @@
 ### Hi there!! I'm Katerine :blush:
 
-A Law student who threw herself into the universe of jurimetrics.
+Graduated in Law, curious about the universe of jurimetrics.
 
 My current technology interests are R and Data Science.
 
