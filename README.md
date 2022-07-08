@@ -2,8 +2,6 @@
 
 Graduated in Law, curious about the universe of jurimetrics.
 
-My current technology interests are R and Data Science.
-
 
 - I have [LinkedIn](https://www.linkedin.com/in/katerinewitkoski/)
 
