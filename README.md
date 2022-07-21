@@ -7,8 +7,13 @@ I ventured into the law for many years and now I am studying computer science at
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🌱 I’m currently learning python.  
-- 💬 Ask me about my news projects.
+```pyhton
+ info = {
+    "nome" : "Katerine", 
+    "currently_learning" : ["python", "SQL"],
+    "interested_in": ["web_development"]
+}
+ ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katerine-dev&hide=HTML&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
