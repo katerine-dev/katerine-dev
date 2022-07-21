@@ -10,7 +10,6 @@ I ventured into the law for many years and now I am studying computer science at
 - 🌱 I’m currently learning python.  
 - 💬 Ask me about my news projects.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katerine-dev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katerine-dev&hide=HTML&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
