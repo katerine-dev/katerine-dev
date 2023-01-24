@@ -10,7 +10,7 @@ I ventured into the law for many years and now I am studying computer science at
 ```pyhton
  info = {
     "nome" : "Katerine", 
-    "currently_learning" : ["python", "SQL"],
+    "currently_learning" : ["python", "SQL", Clojure],
     "interested_in": ["web_development"]
 }
  ```
