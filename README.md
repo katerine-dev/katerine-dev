@@ -1,10 +1,10 @@
-<h2> Hi!! I'm Katerine! <img src="https://media.giphy.com/media/3ov9jNpzO2zSwdwkog/giphy.gif" width="50"></h2>
+<h2> Hi!! I'm Katerine! <img src="https://media.giphy.com/media/l17M5uvfc1VosGUUP0/giphy.gif" width="30"></h2>
 <img align='right' src="https://media.giphy.com/media/Z9WRoncIw8RYBLJ0FB/giphy.gif" width="230">
 <p><em>Graduated in Law, curious about the universe of jurimetrics.
 
 I ventured into the law for many years and now I am studying computer science at anhembi morumbi. I love opposites, complementary colors. Like purple and yellow, law and programming.
 
-### <img src="https://media.giphy.com/media/l17M5uvfc1VosGUUP0/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```pyhton
  info = {
