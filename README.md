@@ -9,7 +9,7 @@ I ventured into the law for many years and now I am studying computer science at
 ```pyhton
  info = {
     "nome" : ["Katerine", "Kate", "kt"], 
-    "currently_learning" : ["Python", "SQL", "Clojure", "JavaScript"],
+    "currently_learning" : ["Python", "SQL", "Clojure", "JavaScript", "Java"],
     "interested_in": ["web_development"]
 }
  ```
