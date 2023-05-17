@@ -4,6 +4,7 @@
 
 I ventured into the law for many years and now I am studying computer science at anhembi morumbi. I love opposites, complementary colors. Like purple and yellow, law and programming.
 
+
 ### A little more about me...  
 
 ```pyhton
@@ -13,8 +14,3 @@ I ventured into the law for many years and now I am studying computer science at
     "interested_in": ["web_development"]
 }
  ```
-
-<div>
-<a href = "ka.lwitkoski@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/katerinewitkoski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
