@@ -4,13 +4,3 @@
 
 I ventured into the law for many years and now I am studying computer science at anhembi morumbi. I love opposites, complementary colors. Like purple and yellow, law and programming.
 
-
-### A little more about me...  
-
-```pyhton
- info = {
-    "nome" : ["Katerine", "Kate", "kt"], 
-    "currently_learning" : ["Python", "SQL", "Clojure", "JavaScript", "Java"],
-    "interested_in": ["web_development"]
-}
- ```
