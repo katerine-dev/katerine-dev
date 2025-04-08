@@ -4,9 +4,9 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjA5ajFwNTlodmd5cWI2dzA3ZHEwMTJhcWhnanpwdGNmanZ3dHYxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5zmua9IObjxwVVDlu3/giphy.gif" width="250" align="right" alt="cat coding gif">
 
 <p align="left"> 
-  👩‍💻 Dev in training at <strong>EBAC</strong> & Computer Science undergrad at <strong>Anhembi Morumbi University</strong><br>
-  🎨 Web design intern at Skadyr<br>
-  🌱 Currently learning: React, Tailwind and FastAPI<br>
+  👩‍💻 Dev in training at <strong>EBAC</strong> & Computer Science undergrad at <strong>Anhembi Morumbi University.</strong><br>
+  🎨 Web design intern at Skadyr.<br>
+  🌱 Currently learning: React, Tailwind and FastAPI.<br>
   💡 Interests: web development, Front-end, UX/UI and tech that makes life easier.
 </p>
 
