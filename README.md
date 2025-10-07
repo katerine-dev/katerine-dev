@@ -5,7 +5,6 @@
 
 <p align="left"> 
   👩‍💻 Dev in training at <strong>EBAC</strong> & Computer Science undergrad at <strong>Anhembi Morumbi University.</strong><br>
-  🎨 Web design intern at Skadyr.<br>
   🌱 Currently learning: React, Tailwind and FastAPI.<br>
   💡 Interests: web development, Front-end, UX/UI and tech that makes life easier.
 </p>
