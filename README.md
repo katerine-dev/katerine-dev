@@ -25,12 +25,6 @@
 </p>
 
 ---
-
-📈 **GitHub Stats**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katerine-dev&hide=html,jupyter%20notebook&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
----
 ☀️ *Fun fact:* My favorite coding vibe? Mornings + Brazilian music = perfect flows. ✨
 
 
